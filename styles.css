@@ -1,0 +1,44 @@
+.buy-now-btn {
+    background-color: #FA804C;
+
+}
+
+.header-color {
+    background-color: #FFF9F4;
+}
+
+.text-orange {
+    color: #FA804C;
+}
+
+.main-bg-color {
+    background-color: #E5E5E5;
+}
+
+.column-middle span {
+    z-index: 11;
+    right: 15px;
+}
+
+.carousel-item img {
+    height: 100vh;
+}
+
+.toast {
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+.toast-header {
+    /* background-image: linear-gradient(orange, red); */
+
+}
+
+@media (max-width:500px) {
+    .toast {
+        width: 55%;
+        left: 95px;
+        top: 54px;
+    }
+}

@@ -35,6 +35,14 @@
 
 }
 
+.footer-p {
+    margin-top: 40%;
+}
+
+.main-m {
+    margin-bottom: 10%;
+}
+
 @media (max-width:500px) {
     .toast {
         width: 55%;
